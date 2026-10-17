@@ -1,0 +1,6 @@
+{
+  "name": "SAIM AC Service — Lahore",
+  "description": "Professional air-conditioning repair, installation, and maintenance services in Lahore, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
